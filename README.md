@@ -34,7 +34,7 @@ The dataset used in this project contains labeled SMS messages marked as either 
    
 2. **Data Preprocessing**:
    - Convert text labels to numeric values (1 for spam, 0 for ham).
-   - 
+     
 3. **Splitting the Dataset**:
    - We split the data into training and testing sets to evaluate the model's performance.
 
